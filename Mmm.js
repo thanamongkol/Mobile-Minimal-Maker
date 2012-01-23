@@ -1,0 +1,1 @@
+﻿function(minimal,maker){        var mobile = "iOS";        mobile+minimal+maker = "";    }
